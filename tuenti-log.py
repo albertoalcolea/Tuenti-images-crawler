@@ -1,8 +1,11 @@
 #! /usr/bin/env python
 # -*- coding: iso-8859-1 -*-dd
 
-# IMPORTAN!! This version was made for Python 2.7
-# Date: 18-2-2012
+# Autor: Alberto Alcolea
+# Date:  18-2-2012
+
+# IMPORTAN!! This script run correctly in Python 2.7
+
 
 import sys
 import re

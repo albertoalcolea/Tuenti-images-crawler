@@ -1,0 +1,5 @@
+Autor: Alberto Alcolea
+Date:  18-2-2012
+
+This is a simply script to trace and download all images of Tuenti from a
+Wireshark's log (or similar like Tshark)
