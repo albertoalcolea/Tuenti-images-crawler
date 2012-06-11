@@ -4,7 +4,7 @@
 # Autor: Alberto Alcolea
 # Date:  18-2-2012
 
-# IMPORTAN!! This script run correctly with Python 2.7
+# IMPORTANT!! This script run correctly with Python 2.7
 
 
 import sys
